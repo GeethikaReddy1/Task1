@@ -1,0 +1,7 @@
+com\kaiburr\taskmanager\model\Task$TaskBuilder.class
+com\kaiburr\taskmanager\model\TaskExecution.class
+com\kaiburr\taskmanager\model\Task.class
+com\kaiburr\taskmanager\TaskmanagerApplication.class
+com\kaiburr\taskmanager\controller\TaskController.class
+com\kaiburr\taskmanager\service\TaskService.class
+com\kaiburr\taskmanager\repository\TaskRepository.class
